@@ -5,7 +5,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com//"/>
-  <updated>2015-08-05T08:05:41.167Z</updated>
+  <updated>2015-08-05T23:44:59.605Z</updated>
   <id>http://yoursite.com//</id>
   
   <author>
@@ -14,6 +14,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[我的下载方式]]></title>
+    <link href="http://yoursite.com/2015/08/06/wdxzfs/"/>
+    <id>http://yoursite.com/2015/08/06/wdxzfs/</id>
+    <published>2015-08-05T23:37:31.000Z</published>
+    <updated>2015-08-05T23:44:59.605Z</updated>
+    <content type="html"><![CDATA[<p>× 度盘。虽然度盘和谐很严重，可是即便是现在，网络上大部分分享的资源还似乎通过度盘，其他网盘不做讨论。不足在于似乎会被限速。</p>
+<p>× 磁力链接和种子。这是自己通过搜索找到的大部分资源的方式。</p>
+<p>× 115离线。115于我来说就是一个加速通道，本来一个不怎么好的资源，通过115离线以后，基本上都能跑满带宽。</p>
+<p>工具打算今天之内做一下——迅雷 vs IDM vs EagleGet 三家的对比。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>× 度盘。虽然度盘和谐很严重，可是即便是现在，网络上大部分分享的资源还似乎通过度盘，其他网盘不做讨论。不足在于似乎会被限速。</p>
+<p>× 磁力链接和种子。这是自己通过搜索找到的大部分资源的方式。</p>
+<p>× 115离线。115于我来说就是一个加速通道，本来一个不]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hexo自用搭建过程]]></title>
