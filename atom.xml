@@ -5,7 +5,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com//"/>
-  <updated>2015-08-02T15:22:03.189Z</updated>
+  <updated>2015-08-05T08:04:02.422Z</updated>
   <id>http://yoursite.com//</id>
   
   <author>
@@ -14,6 +14,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hexo自用搭建过程]]></title>
+    <link href="http://yoursite.com/2015/08/05/Hexo%E8%87%AA%E7%94%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/"/>
+    <id>http://yoursite.com/2015/08/05/Hexo自用搭建过程/</id>
+    <published>2015-08-05T07:54:33.000Z</published>
+    <updated>2015-08-05T08:04:02.422Z</updated>
+    <content type="html"><![CDATA[<p>#Next 主题设置（<a href="http://theme-next.iissnan.com/" target="_blank" rel="external">文档指导</a>）</p>
+<ol>
+<li>下载主题 next</li>
+<li>启用主题</li>
+<li>设置网站logo ，设置用户头像</li>
+<li>设置多说评论</li>
+<li>设置<a href="https://github.com/hexojs/hexo-generator-feed" target="_blank" rel="external">RSS</a></li>
+<li>设置<a href="http://ibruce.info/2015/04/04/busuanzi/" target="_blank" rel="external">不蒜子</a></li>
+<li><a href="http://zipperary.com/2013/11/23/hexo-to-gitcafe/" target="_blank" rel="external">博客迁移至gitcafe</a></li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>#Next 主题设置（<a href="http://theme-next.iissnan.com/" target="_blank" rel="external">文档指导</a>）</p>
+<ol>
+<li>下载主题 next</li>
+<li>启用主题</li>
+<l]]>
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hexo示例文档]]></title>
