@@ -5,7 +5,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com//"/>
-  <updated>2015-08-05T23:48:43.555Z</updated>
+  <updated>2015-08-07T01:47:56.929Z</updated>
   <id>http://yoursite.com//</id>
   
   <author>
@@ -16,11 +16,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[我的技能树]]></title>
+    <link href="http://yoursite.com/2015/08/07/wdjns/"/>
+    <id>http://yoursite.com/2015/08/07/wdjns/</id>
+    <published>2015-08-07T01:47:09.000Z</published>
+    <updated>2015-08-07T01:47:56.929Z</updated>
+    <content type="html"><![CDATA[<p>待补充。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>待补充。</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[我的下载方式]]></title>
     <link href="http://yoursite.com/2015/08/06/wdxzfs/"/>
     <id>http://yoursite.com/2015/08/06/wdxzfs/</id>
     <published>2015-08-05T23:37:31.000Z</published>
-    <updated>2015-08-05T23:48:43.555Z</updated>
+    <updated>2015-08-07T01:47:56.603Z</updated>
     <content type="html"><![CDATA[<ul>
 <li><p>度盘。虽然度盘和谐很严重，可是即便是现在，网络上大部分分享的资源还似乎通过度盘，其他网盘不做讨论。不足在于似乎会被限速。</p>
 </li>
@@ -29,7 +44,6 @@
 <li><p>115离线。115于我来说就是一个加速通道，本来一个不怎么好的资源，通过115离线以后，基本上都能跑满带宽。</p>
 </li>
 </ul>
-<p>工具打算今天之内做一下——迅雷 vs IDM vs EagleGet 三家的对比。</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<ul>
